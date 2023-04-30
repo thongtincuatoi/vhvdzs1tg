@@ -197,7 +197,7 @@
                                                 children: [Object(d.jsx)("span", {
                                                     className: "overhead",
                                                     children: "S\u1ed1 \u0111i\u1ec7n tho\u1ea1i"
-                                                }), "Loading......."]
+                                                }), "Loading....."]
                                             })]
                                         }), Object(d.jsxs)("ul", {
                                             className: "header__contact",
